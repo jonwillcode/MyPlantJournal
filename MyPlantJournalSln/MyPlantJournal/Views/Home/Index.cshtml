@@ -1,0 +1,8 @@
+﻿@model IQueryable<Plant>
+
+@foreach(var plant in Model ?? Enumerable.Empty<Plant>()) {
+    <div>
+        <h3>@plant.Name (@plant.Species)</h3>
+        <p>@plant.Notes</p>
+    </div>
+}

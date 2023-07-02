@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPlantJournal", "MyPlantJournal\MyPlantJournal.csproj", "{7AAE7BA3-0B88-4CB8-B1D6-0C6C66BFFF7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPlantJournal.Tests", "MyPlantJournal.Tests\MyPlantJournal.Tests.csproj", "{B4F707B2-B89F-45BB-A5A7-88EBA54A37CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAE7BA3-0B88-4CB8-B1D6-0C6C66BFFF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAE7BA3-0B88-4CB8-B1D6-0C6C66BFFF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAE7BA3-0B88-4CB8-B1D6-0C6C66BFFF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAE7BA3-0B88-4CB8-B1D6-0C6C66BFFF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F707B2-B89F-45BB-A5A7-88EBA54A37CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F707B2-B89F-45BB-A5A7-88EBA54A37CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F707B2-B89F-45BB-A5A7-88EBA54A37CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F707B2-B89F-45BB-A5A7-88EBA54A37CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
